@@ -3,7 +3,7 @@
 import Vue from 'vue'
 import iView from 'iView'
 import App from './App'
-import router from './router'
+import router from './router/index'
 import 'iview/dist/styles/iview.css'
 Vue.use(iView)
 
